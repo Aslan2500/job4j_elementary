@@ -63,7 +63,7 @@ public class FindLoopTest {
     }
 
     @Test
-    public void whenFind4() {
+    public void whenFindMinus1() {
         int[] data = new int[] {1432, 15, 123, 321, 0};
         int el = 2225;
         int start = 0;
